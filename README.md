@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlo Welcome!</h1>
+<h1 align="center">Hi 👋, I'm Carlo! Welcome!</h1>
 <h3 align="center">Making my dreams come true to become a Full-Stack Engineer. I'm always excited seeing the finished product of a project that was only imagined before.</h3>
 
 - 🔭 I’m currently working on **MERN Stack Side Project**
