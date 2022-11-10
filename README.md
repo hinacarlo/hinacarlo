@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Side Project**
 
-- 🌱 I’m currently learning **REDUX**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **hinacarlo1993@gmail.com**
 
